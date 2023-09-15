@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1694764717 source:c:\users\youcode\desktop\youcode prog c\challengesen c\challenge1.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1694764256 source:c:\users\youcode\desktop\youcode prog c\challengesen c\main.c
+
+1694768137 source:c:\users\youcode\desktop\youcode prog c\challengesen c\challenge2.c
+	<stdio.h>
+	<stdlib.h>
+
+1694764715 source:c:\users\youcode\desktop\youcode prog c\challengesen c\challenge3.c
+	<stdio.h>
+	<stdlib.h>
+
+1694764878 source:c:\users\youcode\desktop\youcode prog c\challengesen c\challenge4.c
+	<stdio.h>
+	<stdlib.h>
+
+1694768100 source:c:\users\youcode\desktop\youcode prog c\challengesen c\challenge5.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
